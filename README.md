@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [3-Column Preview Card](https://your-solution-url.com)
-- Live Site URL: [3-Column Preview Card](https://your-live-site-url.com)
+- Solution URL: [3-Column Preview Card](https://github.com/dayronfurcain/column-preview-card)
+- Live Site URL: [3-Column Preview Card](https://app.netlify.com/sites/wonderful-jalebi-e5c860/configuration/deploys)
 
 ## My process
 
